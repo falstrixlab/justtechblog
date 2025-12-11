@@ -1,6 +1,5 @@
-title: "Just Tech Blog"
-theme: "just-the-docs"
-color_scheme: "light"
+title: Just Tech Blog
+theme: just-the-docs
 
-just_the_docs:
-  search_enabled: true
+baseurl: "/justtechblog"  
+url: "https://falstrixlab.github.io"
