@@ -1,0 +1,6 @@
+title: "Just Tech Blog"
+theme: "just-the-docs"
+color_scheme: "light"
+
+just_the_docs:
+  search_enabled: true
